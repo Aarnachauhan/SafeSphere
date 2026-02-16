@@ -78,6 +78,12 @@ npm run dev
 ```
 
 for ml server ( install dependencies manually)
+## 🤖 ML Model
+
+The trained cyberbullying detection model is hosted on Hugging Face:
+
+🔗 https://huggingface.co/aarnachauhan/cyberbullying-detection-model
+
 
 ```bash
 cd (ml model folder)
