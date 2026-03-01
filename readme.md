@@ -1,8 +1,5 @@
-# thoughts.io
-
-thoughts.io is a full stack social media simulator built to demonstrate cyberbullying detection and moderation workflows. it simulates a reddit/twitter-like threaded discussion platform where users can create posts, reply to conversations, and have replies analyzed in real time by a machine learning model. the primary focus of the system is responsible content moderation and structured backend architecture rather than engagement-driven design.
-
-the system is divided into three application layers (frontend, backend api, and ml inference server) with mongodb atlas as the cloud database.
+#SafeSphere
+Developed a full-stack intelligent moderation system that detects cyberbullying in comments using NLP-based sentiment analysis, toxicity classification, and contextual intent detection. Integrated real-time comment monitoring, multi-class severity categorization (harassment, hate speech, threats), and automated alert mechanisms. Enhanced the system with voice-to-text processing and image-based abuse detection to support multi-modal inputs. Designed a scalable backend with secure authentication and deployed a responsive frontend for real-time feedback.
 
 ---
 
