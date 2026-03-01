@@ -1,18 +1,32 @@
 #SafeSphere
-Developed a full-stack intelligent moderation system that detects cyberbullying in comments using NLP-based sentiment analysis, toxicity classification, and contextual intent detection. Integrated real-time comment monitoring, multi-class severity categorization (harassment, hate speech, threats), and automated alert mechanisms. Enhanced the system with voice-to-text processing and image-based abuse detection to support multi-modal inputs. Designed a scalable backend with secure authentication and deployed a responsive frontend for real-time feedback.
+Developed a full-stack intelligent moderation system that detects cyberbullying in comments using NLP-based sentiment analysis, toxicity classification, and contextual intent detection. Integrated real-time comment monitoring, multi-class severity categorization (harassment, hate speech, threats), and automated alert mechanisms. Designed a scalable backend with secure authentication and deployed a responsive frontend for real-time feedback.
+Integrated a behavior-aware Cool-Down feature that temporarily restricts users from posting when repeated toxic behavior is detected, reducing escalation and promoting healthier interactions
 
 ---
 
 ## tech stack
 
-- react (frontend)
-- node.js + express (backend api)
-- fastapi (ml inference server)
-- mongodb atlas (cloud database)
-- mongoose (mongodb orm)
-- axios (backend to ml communication)
+🛠 Tech Stack
+🔹 1️⃣ Frontend
 
----
+React.js
+HTML5 & CSS3 
+Axios
+
+🔹 2️⃣ Backend
+
+Node.js 
+Express.js
+JWT Authentication
+MongoDB 
+
+🔹 3️⃣ AI / Machine Learning
+Python 
+NLTK 
+Scikit-learn 
+Transformers (BERT / DistilBERT)
+TensorFlow 
+PyTorch
 
 ## moderation workflow
 
