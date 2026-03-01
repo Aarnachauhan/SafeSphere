@@ -1,4 +1,5 @@
-#SafeSphere
+## SafeSphere
+
 Developed a full-stack intelligent moderation system that detects cyberbullying in comments using NLP-based sentiment analysis, toxicity classification, and contextual intent detection. Integrated real-time comment monitoring, multi-class severity categorization (harassment, hate speech, threats), and automated alert mechanisms. Designed a scalable backend with secure authentication and deployed a responsive frontend for real-time feedback.
 Integrated a behavior-aware Cool-Down feature that temporarily restricts users from posting when repeated toxic behavior is detected, reducing escalation and promoting healthier interactions
 
